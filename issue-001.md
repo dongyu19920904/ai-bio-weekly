@@ -12,7 +12,7 @@
 
 ## 本期主题：AI终于"看穿"了癌症的隐身衣
 
-![Cancer immunotherapy immune cells attacking tumor](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/ad306125-f0ff-422a-8859-3d967de23709.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/ad306125-f0ff-422a-8859-3d967de23709.png" width="400" alt="Cancer immunotherapy immune cells attacking tumor">
 
 ### 【第一幕】问题：60%的癌症患者被医学"遗忘"了
 
@@ -98,7 +98,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 1️⃣ 【AI突破】一天内筛选10亿分子：Kantify创造药物发现新纪录
 
-![AI high-throughput drug molecule screening](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f676c412-5a97-42cc-b3cb-6758f42196c4.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f676c412-5a97-42cc-b3cb-6758f42196c4.png" width="400" alt="AI high-throughput drug molecule screening">
 
 比利时生物科技公司Kantify在10月22日宣布了一个里程碑式的突破。其AI平台**Sapian**现已可在**不到24小时内分析10亿个药物分子**。
 
@@ -114,7 +114,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 2️⃣ 【临床挫折】Moderna CMV疫苗Phase 3失败：mRNA技术的第一次重挫
 
-![mRNA vaccine vial and syringe](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/2e9a9b70-85e1-4544-bde7-47d13a7e4c0f.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/2e9a9b70-85e1-4544-bde7-47d13a7e4c0f.png" width="400" alt="mRNA vaccine vial and syringe">
 
 曾被寄予厚望的Moderna细胞巨病毒（CMV）mRNA疫苗在10月21日传来坏消息。
 
@@ -130,7 +130,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 3️⃣ 【平台发布】Genomics推出Mystra：遗传学AI平台重新定义药物靶点
 
-![Genome-wide association study visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/48ea4923-682c-4a97-9316-60fec88b8bd0.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/48ea4923-682c-4a97-9316-60fec88b8bd0.png" width="400" alt="Genome-wide association study visualization">
 
 在10月15日美国人类遗传学学会（ASHG）2025年年会上，英国科技生物公司Genomics发布了新平台**Mystra**。
 
@@ -146,7 +146,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 4️⃣ 【意外发现】COVID疫苗能"热化"冷肿瘤：mRNA疫苗的跨界应用
 
-![COVID vaccine enhancing cancer immunotherapy](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6df50210-f6ea-43ae-87ea-58a3ec7be64f.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/6df50210-f6ea-43ae-87ea-58a3ec7be64f.png" width="400" alt="COVID vaccine enhancing cancer immunotherapy">
 
 一个发表在《Nature》的研究在10月22-23日引起学术界关注。
 
@@ -166,7 +166,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 5️⃣ 【临床进展】AI设计的肺纤维化药物Rentosertib进入Phase IIa并显示疗效
 
-![Pulmonary fibrosis AI drug treatment](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/95302b14-681a-4794-b156-7ba7c18221c2.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/95302b14-681a-4794-b156-7ba7c18221c2.png" width="400" alt="Pulmonary fibrosis AI drug treatment">
 
 由Insilico Medicine的生成式AI完全设计的药物**Rentosertib**正在临床中获得成功。
 
@@ -198,7 +198,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📖 **[蛋白质设计的艺术：AI如何改变药物开发](https://www.worksinprogress.news/p/the-art-of-protein-design-with-ai)**
 
-![AI protein design visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e62cad4a-a635-4ce4-92d8-6053ee800832.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e62cad4a-a635-4ce4-92d8-6053ee800832.png" width="400" alt="AI protein design visualization">
 
 ✨ **为什么推荐**：深入探讨AI不再局限于模仿自然，而是设计自然从未存在过的新蛋白。从Chroma模型能够"凭空"设计出310个功能性蛋白说起，揭示了生成式AI如何拓展人类设计空间的可能性。
 
@@ -211,7 +211,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📖 **[基础模型揭秘：单细胞内的隐藏世界](https://ryanfukushima.substack.com/p/a-foundation-model-reveals-what-cells) | Ryan Fukushima**
 
-![Single cell hidden patterns visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/3b444c26-e9b2-45a4-b980-281839d29f0e.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/3b444c26-e9b2-45a4-b980-281839d29f0e.png" width="400" alt="Single cell hidden patterns visualization">
 
 ✨ **为什么推荐**：从富有诗意的角度切入"单细胞如何从沉默中被唤醒"。用116万个单细胞数据训练的基础模型，揭示了细胞间的隐藏对话。这不是一篇纯技术文，而是探讨"如何用AI解读生命最小单位的秘密"的深度思考。
 
@@ -224,7 +224,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📖 **[生物基础模型直观解读](https://aistartupscout.substack.com/p/biology-foundation-models-explained) | AI创业侦查**
 
-![Biology foundation model architecture](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/88b76d8a-7d04-4528-a396-9e79ce3304c6.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/88b76d8a-7d04-4528-a396-9e79ce3304c6.png" width="400" alt="Biology foundation model architecture">
 
 ✨ **为什么推荐**：用类比而非公式来讲解——为什么2024年是生物AI的突破年？为什么通用LLM在生物学上失效？这篇文章用4000字把复杂的技术难题讲成了一个清晰的故事。
 
@@ -237,7 +237,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📖 **[深度镜像：规模化生成式药物设计](https://kiinai.substack.com/p/deepmirror-generative-drug-design) | KIIN AI**
 
-![Generative AI molecular design workflow](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/c3ce11f3-b326-46fd-b79b-071133dcfbe9.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/c3ce11f3-b326-46fd-b79b-071133dcfbe9.png" width="400" alt="Generative AI molecular design workflow">
 
 ✨ **为什么推荐**：从实战的角度展示了如何用生成式AI加速药物分子设计。与其他理论性的文章不同，deepmirror演示的是科学家们如何上传自己的数据集、让AI并行运行数百个模型、找到最适合的方案。这是"从论文到工程实践"的完整案例。
 
@@ -250,7 +250,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📖 **[打造生物AI的大脑](https://ncfrey.substack.com/p/building-the-brain-of-a-biological) | Nicholas Frey**
 
-![Biological AI system architecture design](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/34d3fa74-92a0-4434-a8ee-e42be605df4d.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/34d3fa74-92a0-4434-a8ee-e42be605df4d.png" width="400" alt="Biological AI system architecture design">
 
 ✨ **为什么推荐**：偏向"架构师视角"的深度文章。不问"AI能做什么"，而是问"如何设计一个生物学AI系统的大脑"。涉及数据编码、模型架构、训练策略等深层设计问题。文末金句：*"未来科学发现的主角是装备了AI的人类科学家"*
 
@@ -263,7 +263,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📖 **[AI赋能的药物发现革命：从生物制药的视角](https://bioscommunity.substack.com/p/frontier-perspectives-1-ai-enabled) | BIOS+**
 
-![Biologics pharmaceutical protein drug](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/014aef46-be65-4b67-9867-8d3a45a99f60.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/014aef46-be65-4b67-9867-8d3a45a99f60.png" width="400" alt="Biologics pharmaceutical protein drug">
 
 ✨ **为什么推荐**：深度分析特别关注生物制药（Biologics）与AI结合的前景。与小分子药物不同，生物制药具有更高特异性但筛选难度更大——AI在这个领域如何发挥作用？文章通过具体数据和案例说明，为什么生物制药领域最容易被AI革新。
 
@@ -278,7 +278,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **1. [Scanpy](https://scanpy.readthedocs.io)** — Python中的"瑞士军刀"
 
-![Scanpy UMAP clustering visualization example](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/35cc2081-c532-412b-a7a1-e6ef0aa48110.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/35cc2081-c532-412b-a7a1-e6ef0aa48110.png" width="400" alt="Scanpy UMAP clustering visualization example">
 
 💡 **什么时候用**：拿到单细胞测序数据，需要快速聚类和可视化  
 ⚙️ **怎么上手**：安装后10分钟内能跑出第一张图  
@@ -289,7 +289,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **2. [scvi-tools](https://github.com/scverse/scvi-tools)** — 深度学习工具
 
-![scvi-tools deep learning single-cell analysis](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/9f2448cb-290e-4706-af3e-d68c14b57508.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/9f2448cb-290e-4706-af3e-d68c14b57508.png" width="400" alt="scvi-tools deep learning single-cell analysis">
 
 💡 **什么时候用**：需要深度学习处理复杂的单细胞数据  
 ⚙️ **怎么上手**：官方教程详细，有现成的示例  
@@ -300,7 +300,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **3. [scverse 生态](https://scverse.org)** — 完整的生态系统
 
-![scverse integrated ecosystem visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/3b93bc35-85d1-4626-8b20-68e6e03a8921.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/3b93bc35-85d1-4626-8b20-68e6e03a8921.png" width="400" alt="scverse integrated ecosystem visualization">
 
 💡 **什么时候用**：需要从数据预处理到发表的完整工作流  
 ⚙️ **怎么上手**：官网有完整的教程和案例  
@@ -313,7 +313,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **4. [AlphaFold 3](https://alphafold.ebi.ac.uk)** — 最新的预测工具
 
-![AlphaFold structure prediction visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/5355dfd9-2743-43b8-b016-7ddad10e269a.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/5355dfd9-2743-43b8-b016-7ddad10e269a.png" width="400" alt="AlphaFold structure prediction visualization">
 
 💡 **什么时候用**：需要预测蛋白质3D结构和相互作用  
 ⚙️ **怎么上手**：Web界面，上传序列即可  
@@ -324,7 +324,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **5. [AlphaFold DB](https://alphafold.ebi.ac.uk)** — 2.2亿结构数据库
 
-![AlphaFold Protein Structure Database interface](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/d1f72479-ca59-4792-bee8-7e86f4cf0446.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/d1f72479-ca59-4792-bee8-7e86f4cf0446.png" width="400" alt="AlphaFold Protein Structure Database interface">
 
 💡 **什么时候用**：需要查询已有的蛋白质结构  
 ⚙️ **怎么上手**：直接搜索蛋白质名称或序列  
@@ -337,7 +337,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **6. [AutoDock Vina](https://vina.scripps.edu)** — 分子对接的经典
 
-![AutoDock Vina molecular docking result](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/9f0b7a0d-f6e7-4abe-80f9-c79f05a72f58.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/9f0b7a0d-f6e7-4abe-80f9-c79f05a72f58.png" width="400" alt="AutoDock Vina molecular docking result">
 
 💡 **什么时候用**：进行分子对接，虚拟筛选化合物库  
 ⚙️ **怎么上手**：命令行简单易用，支持并行计算  
@@ -348,7 +348,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **7. [DrugPipe](https://github.com/HySonLab/DrugPipe)** — AI加速药物筛选
 
-![DrugPipe AI-assisted drug discovery workflow](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e7efa9d3-099d-4faa-b4d3-7a1f0e1a7be2.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e7efa9d3-099d-4faa-b4d3-7a1f0e1a7be2.png" width="400" alt="DrugPipe AI-assisted drug discovery workflow">
 
 💡 **什么时候用**：需要AI加速的虚拟药物筛选  
 ⚙️ **怎么上手**：GitHub有详细文档  
@@ -361,7 +361,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **8. [ggplot2 + Plotly](https://plotly.com/r/)** — 出版级可视化
 
-![ggplot2 publication-quality data visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/0d453de7-ed88-4e43-b941-d8196f8e03da.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/0d453de7-ed88-4e43-b941-d8196f8e03da.png" width="400" alt="ggplot2 publication-quality data visualization">
 
 💡 **什么时候用**：需要为论文生成高质量的图表  
 ⚙️ **怎么上手**：`ggplotly()` 一行代码从静态转交互  
@@ -372,7 +372,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **9. [PyMOL](https://www.pymol.org)** — 3D分子可视化标准
 
-![PyMOL protein structure visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/8d27e0c4-4b5f-40c5-b5fd-82b969c27c4c.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/8d27e0c4-4b5f-40c5-b5fd-82b969c27c4c.png" width="400" alt="PyMOL protein structure visualization">
 
 💡 **什么时候用**：需要展示蛋白质3D结构  
 ⚙️ **怎么上手**：GUI友好，命令行强大  
@@ -383,7 +383,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 **10. [Avogadro](https://avogadro.cc)** — 分子编辑器
 
-![Avogadro molecular editing and visualization](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/72974ca1-73ad-429b-b913-1d98a54451af.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/72974ca1-73ad-429b-b913-1d98a54451af.png" width="400" alt="Avogadro molecular editing and visualization">
 
 💡 **什么时候用**：需要构建和优化分子结构  
 ⚙️ **怎么上手**：无需编程，图形界面  
@@ -396,7 +396,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 案例1：Insilico Medicine — 30个月从发现到临床的奇迹
 
-![Insilico Medicine AI-designed drug discovery pipeline](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/41ddfc34-b450-4730-922b-b5b045224397.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/41ddfc34-b450-4730-922b-b5b045224397.png" width="400" alt="Insilico Medicine AI-designed drug discovery pipeline">
 
 **问题**：肺纤维化患者肺功能快速衰退，传统药物开发太慢（5年）
 
@@ -414,7 +414,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 案例2：Exscientia — 与Sanofi合作，将设计周期压缩70%
 
-![Exscientia AI drug design acceleration workflow](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/b7adb73c-c702-416b-8040-88241cbb20d1.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/b7adb73c-c702-416b-8040-88241cbb20d1.png" width="400" alt="Exscientia AI drug design acceleration workflow">
 
 **问题**：传统药物设计需要4.5年，罕见病患者等不起
 
@@ -432,7 +432,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ### 案例3：Recursion — 反转Eroom's Law的宏大野心
 
-![Recursion Pharmaceuticals biology mapping AI system](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/afe910ff-e98c-4891-b336-5d050f1cae9a.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/afe910ff-e98c-4891-b336-5d050f1cae9a.png" width="400" alt="Recursion Pharmaceuticals biology mapping AI system">
 
 **问题**：Eroom's Law诅咒——尽管技术进步，药物开发成本和时间却在增加
 
@@ -454,7 +454,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📊 **[scBaseCount - Virtual Cell Challenge](https://virtualcellchallenge.org/)**
 
-![scBaseCount single-cell RNA-seq database](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4df1d7d3-d253-435d-8648-e54f3646dd6b.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4df1d7d3-d253-435d-8648-e54f3646dd6b.png" width="400" alt="scBaseCount single-cell RNA-seq database">
 
 - 📈 **300+百万细胞**跨26个生物体、72个组织
 - 🎯 最大的单细胞基准数据集
@@ -467,7 +467,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📊 **[GEO - Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)**
 
-![GEO Gene Expression Omnibus database interface](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f8b7fb72-587c-4bba-ae86-c31938f9c106.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f8b7fb72-587c-4bba-ae86-c31938f9c106.png" width="400" alt="GEO Gene Expression Omnibus database interface">
 
 - 📈 **50,000+研究**、数百万样本
 - 🎯 学术界"金标准"，被10,000+论文引用
@@ -480,7 +480,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📚 **[Hugging Face Datasets - Biology](https://huggingface.co/datasets?search=biology)**
 
-![Hugging Face Datasets biology collection](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/5c4e4b36-24b5-4e75-b17f-a8d453ab3f2b.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/5c4e4b36-24b5-4e75-b17f-a8d453ab3f2b.png" width="400" alt="Hugging Face Datasets biology collection">
 
 - 📖 预处理、即插即用的生物学数据集
 - 🎯 减少80%数据清理时间
@@ -493,7 +493,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 📚 **[Galaxy Training Platform](https://training.galaxyproject.org/)**
 
-![Galaxy Project training platform interface](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/8cf4cc64-afdb-441a-9444-45694a8fefe5.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/8cf4cc64-afdb-441a-9444-45694a8fefe5.png" width="400" alt="Galaxy Project training platform interface">
 
 - 🎓 16+生物学子领域教程，从入门到高级
 - 🎯 **零门槛实操**——直接在浏览器中运行
@@ -508,37 +508,37 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ---
 
-![DNA double helix 3D structure](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e80fd1e1-0e33-4506-9590-a85e2be7dc4d.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e80fd1e1-0e33-4506-9590-a85e2be7dc4d.png" width="400" alt="DNA double helix 3D structure">
 
 **DNA双螺旋** — 所有生命的语言，都被编写在这个优雅的旋转中。每一圈螺旋携带着数十亿年的进化历史，是生命延续的物质基础。
 
 ---
 
-![Nautilus shell spiral cross-section](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/71d19a65-e66b-4561-9e7c-219c0ebcad18.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/71d19a65-e66b-4561-9e7c-219c0ebcad18.png" width="400" alt="Nautilus shell spiral cross-section">
 
 **鹦鹉螺壳的黄金比例螺旋** — 这个贝壳的生长过程遵循完美的数学比例。每一间新建造的房间都比前一个大1.618倍（黄金比例），创造了视觉上绝对的和谐。
 
 ---
 
-![Fern fiddlehead unfurling spiral](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/fbfd5e07-d579-4eae-8ac7-d6a2e61c6a06.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/fbfd5e07-d579-4eae-8ac7-d6a2e61c6a06.png" width="400" alt="Fern fiddlehead unfurling spiral">
 
 **蕨类新芽的螺旋** — 春天到来时，新鲜的蕨叶从紧密的螺旋中缓缓展开，每一圈都遵循菲波那契数列。这是植物对空间和阳光的最优化解决方案。
 
 ---
 
-![Butterfly wing scales microscopic detail](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/463f1b2e-2800-47ce-ac81-4eece979394e.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/463f1b2e-2800-47ce-ac81-4eece979394e.png" width="400" alt="Butterfly wing scales microscopic detail">
 
 **蝴蝶翅膀的鳞片** — 在显微镜下，这些微小的鳞片排列成完美的阵列，通过干涉和衍射光线产生虹彩。这是几百万年自然设计的结晶。
 
 ---
 
-![Neural network brain connections](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/89cf2df2-2030-4781-8520-aa8f174a903e.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/89cf2df2-2030-4781-8520-aa8f174a903e.png" width="400" alt="Neural network brain connections">
 
 **神经网络的无声建筑师** — 我们的思想和意识，归根结底是由数十亿个神经元和它们之间的连接构成。这张图展示了大脑皮层中神经突触的密集网络——一个自组织的、无比复杂的宇宙。
 
 ---
 
-![Snowflake crystal hexagonal symmetry](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/8b7a7759-eef3-4a1b-8b73-d30a436b0c23.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/8b7a7759-eef3-4a1b-8b73-d30a436b0c23.png" width="400" alt="Snowflake crystal hexagonal symmetry">
 
 **雪花的六边形完美** — 每一片雪花都是独特的，但它们都遵循相同的几何法则——水分子的对称性决定了晶体的形状。这说明，看似随机的自然创造，其实潜藏着数学的秩序。
 
@@ -554,7 +554,7 @@ C2S-Scale分析了超过**4000种药物候选**，在真实患者肿瘤样本和
 
 ## 前沿思考 · 这周最深刻的3个反思
 
-![Deep reflection and intellectual contemplation](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/a3769f52-9d67-461a-9c49-ccbcc67c1ce9.png)
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/a3769f52-9d67-461a-9c49-ccbcc67c1ce9.png" width="400" alt="Deep reflection and intellectual contemplation">
 
 ### 《医疗AI的真实困境：凭证制度与能力的碰撞》
 **Bryan Vartabedian | 33 Charts**
