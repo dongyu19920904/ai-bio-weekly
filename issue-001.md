@@ -6,7 +6,8 @@
 
 ## 封面图
 
-![](https://www.nikonsmallworld.com/images/photos/2025/_photo1600/1st-JAN-2025_ZHANG_YOU_e41144_f24896.jpg)
+<img src="https://www.nikonsmallworld.com/images/photos/2025/_photo1600/1st-JAN-2025_ZHANG_YOU_e41144_f24896.jpg" width="700" alt="Cancer immunotherapy immune cells attacking tumor">
+
 
 一只米象甲在米粒上的完美翅展。来自中国昆明的昆虫学家张友用这张照片赢得了2025年尼康显微摄影大赛第一名，他用100多张照片进行焦点叠加，花费两周时间完成。（[via Nikon Small World](https://www.nikonsmallworld.com/galleries/2025-photomicrography-competition/rice-weevil-sitophilus-oryzae-on-a-grain-of-rice)）
 
