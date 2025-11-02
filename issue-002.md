@@ -6,7 +6,7 @@
 
 ## 封面图
 
-![](C:\Users\dongy\AppData\Roaming\marktext\images\2025-11-02-13-37-47-c09b343ce16bf68e503a23c4c8d94144.jpg)
+![](https://github.com/dongyu19920904/ai-bio-weekly/blob/fc5f2f0338f20ecdb767478e727a801c292f94d0/image/2025-11-02-13-37-47-c09b343ce16bf68e503a23c4c8d94144.jpg)
 
 **这张图展示了**：AI能力在医疗健康8大领域的冲击增长趋势。从2022年的2%影响力，逐年上升到2032年预测的26%。
 
@@ -22,7 +22,7 @@
 
 ## 本期主题：AI用1天干完人类270年的活
 
-![](C:\Users\dongy\AppData\Roaming\marktext\images\2025-11-02-13-38-34-410d615f8c45085460e0695e0f0e920c.jpg)
+![](https://github.com/dongyu19920904/ai-bio-weekly/blob/fc5f2f0338f20ecdb767478e727a801c292f94d0/image/2025-11-02-13-38-34-410d615f8c45085460e0695e0f0e920c.jpg)
 
 ### 【第一幕】问题：找新药太慢
 
@@ -40,7 +40,7 @@
 | 完整筛选时长 | 27年  | 1天            | **快27倍** |
 | 能力     | 被动筛选 | **主动设计**      | 范式转变     |
 
-![](C:\Users\dongy\AppData\Roaming\marktext\images\2025-11-02-13-39-09-853c90f1ff4621d20f5d2fa90660d961.jpg)
+![](https://github.com/dongyu19920904/ai-bio-weekly/blob/fc5f2f0338f20ecdb767478e727a801c292f94d0/image/2025-11-02-13-39-09-853c90f1ff4621d20f5d2fa90660d961.jpg)
 
 **尤其值得关注的是**：AI找到的靶点，从未在任何文献中出现过。
 
@@ -127,7 +127,7 @@
 
 ### 争论一：AI设计的危险蛋白——我们该如何平衡创新与安全？
 
-![](C:\Users\dongy\AppData\Roaming\marktext\images\2025-11-02-13-50-49-c3dc2d7a6a7fd62af331daf4271433ac.jpg)
+![](https://github.com/dongyu19920904/ai-bio-weekly/blob/fc5f2f0338f20ecdb767478e727a801c292f94d0/image/2025-11-02-13-50-49-c3dc2d7a6a7fd62af331daf4271433ac.jpg)
 
 **背景**：2025年10月，微软研究团队证实AI设计的危险蛋白质能绕过DNA合成筛查系统。
 
@@ -141,7 +141,7 @@
 
 ### 争论二：AI医疗系统中的种族偏见——算法会延续历史不公吗？
 
-![](C:\Users\dongy\AppData\Roaming\marktext\images\2025-11-02-13-52-54-38a607f0bce328a08d6e1f1c48fbb08b.jpg)
+![](https://github.com/dongyu19920904/ai-bio-weekly/blob/fc5f2f0338f20ecdb767478e727a801c292f94d0/image/2025-11-02-13-52-54-38a607f0bce328a08d6e1f1c48fbb08b.jpg)
 
 **背景**：一个广泛使用的美国医疗风险预测算法被发现存在严重的种族偏见。在同样的风险分数下，黑人患者患慢性病的数量比白人患者多**26.3%**。
 
@@ -206,7 +206,7 @@
 
 ## 有意思的图
 
-![](C:\Users\dongy\AppData\Roaming\marktext\images\2025-11-02-13-53-57-b23f751aecb04bdfa44005f5eb52c3d7.jpg)
+![](https://github.com/dongyu19920904/ai-bio-weekly/blob/fc5f2f0338f20ecdb767478e727a801c292f94d0/image/2025-11-02-13-53-57-b23f751aecb04bdfa44005f5eb52c3d7.jpg)
 
 **这张图展示**：2025年多模态Transformer架构如何整合视觉、语言、推理能力。
 
