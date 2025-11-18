@@ -61,7 +61,7 @@ tags:
 - **相关资料 / 工具**：  
   sora；deepseek 视频提示词；今日自制问候视频合集  
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/16719858-45bf-4fcd-923b-8e12e4ad3342" />
+<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/16719858-45bf-4fcd-923b-8e12e4ad3342" />
 
 
 
