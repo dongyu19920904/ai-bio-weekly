@@ -11,7 +11,7 @@ tags:
 
 # AI 生命科学小报 · 2025-11-19
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/10323d11-0903-49b1-a7b0-f0d732c019a2" />
+<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/10323d11-0903-49b1-a7b0-f0d732c019a2" />
 
 
 ## 1. 今天的三句话
@@ -48,7 +48,7 @@ tags:
 - **相关资料 / 工具**：  
   youware：在线做网站、改网页，用 Gemini 3 当前端搭档。
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f2b1592-60b5-4420-8bb2-d5ae93305472" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7f2b1592-60b5-4420-8bb2-d5ae93305472" />
 
 
 
@@ -81,7 +81,7 @@ tags:
   TxGemma 官方介绍页（Google DeepMind）：  
   https://deepmind.google/models/gemma/txgemma/
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d0c470b-75ba-47ed-8c2f-83c3290bbe0b" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d0c470b-75ba-47ed-8c2f-83c3290bbe0b" />
 
 
 ---
